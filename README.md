@@ -39,3 +39,7 @@ This project is an **Electronic Dice** built using Arduino Uno. It simulates a r
 <img width="427" height="360" alt="image" src="https://github.com/user-attachments/assets/82e15e57-e69a-4fda-88c2-f12d5aa92794" />
 
 
+`Downloaded from https://wokwi.com
+
+Simulate this project on https://wokwi.com
+
